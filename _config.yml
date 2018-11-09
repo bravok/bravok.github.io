@@ -16,7 +16,7 @@ nav_list:
 single_footer: '<p>&copy; 2018, Kris Bravo <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Kris Bravo', '/about/kris']
+    Writer: ['Kris Bravo', '/author/kris']
 
 # Build settings
 # markdown: kramdown
