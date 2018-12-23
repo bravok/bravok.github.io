@@ -43,10 +43,14 @@ The workload service contains a user pod component that runs the actual Docker c
 
 The Kubelet Service is the agent working on behalf of the management node to ensure that the specified number of containers are running and healthy.
 
-![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-23_ABB-kf.png)
+![Minikube Features]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-23_ABB-kf.png)
 
 Here is a list of features provided by Kubernetes. If you run minikube there are commands and flags to become familiar with.
 
-[Kubernetes]:      https://kubernetes.io
-[Minikube]:   https://kubernetes.io/docs/setup/minikube/
-[8 Steps to Becoming Awesome with Kubernetes]: http://bit.ly/8stepsawesome
+[Kubernetes](https://kubernetes.io)
+
+[Minikube](https://kubernetes.io/docs/setup/minikube/)
+
+[8 Steps to Becoming Awesome with Kubernetes](http://bit.ly/8stepsawesome)
+
+[Archimate Model]({{site.url}}/{{site.baseurl}}bravok.github.io.archimate)
