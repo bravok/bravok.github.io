@@ -7,7 +7,7 @@ author_name : Kris Bravo
 author_url : /author/kris
 author_avatar: kris
 show_avatar : true
-read_time : 15
+read_time : 5
 feature_image: feature-wolf
 show_related_posts: false
 square_related: recommend-wolf
