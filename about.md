@@ -5,10 +5,14 @@ permalink: /about/
 feature_image: feature-book
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My passion is to bring compelling ideas to life. I am a commercial technologist specializing in customer-driven delivery. My strategy consists of forward looking architecture, reliable cost/time projections, feedback driven focus, and effective end results.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Career highlights:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* A recurring theme of solving complex challenges in practical ways
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+* Leadership habits that put people first, knowing that results quickly follow
+
+* Disciplined IT delivery that is easily tied back to business drivers
+
+* Heavy use of prototyping and cross pollination of ideas across industries and experiences

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Architecture Building Block: Kubernetes Container Management"
-date: 2015-02-11 08:50:28
+date: 2018-12-05 08:50:28
 categories: technology
 author_name : Kris Bravo
 author_url : /author/kris
@@ -15,7 +15,7 @@ square_related: recommend-wolf
 
 If you are thinking about adding Kubernetes to your architecture it's nice to have a starting point that shows what all is included and how they fit together.
 
-![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-23_ABB-kcm.png)
+![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-05_ABB-kcm.png)
 
 You're basically looking at two node types - master and worker - with network interactions between an API and runtime service.
 
@@ -43,7 +43,7 @@ The workload service contains a user pod component that runs the actual Docker c
 
 The Kubelet Service is the agent working on behalf of the management node to ensure that the specified number of containers are running and healthy.
 
-![Minikube Features]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-23_ABB-kf.png)
+![Minikube Features]({{site.url}}/{{site.baseurl}}img/post-assets/2018-12-05_ABB-kf.png)
 
 Here is a list of features provided by Kubernetes. If you run minikube there are commands and flags to become familiar with.
 
