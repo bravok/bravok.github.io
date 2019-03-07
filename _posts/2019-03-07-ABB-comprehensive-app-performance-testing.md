@@ -23,6 +23,8 @@ I found an article from SmartBear about the topic that was interesting. It descr
 
 Beginning with this article I created the following reference architecture. You can see how the various test types fit together. Pay attention to the important parts like duration, scheduling, and deployment phase where tests are executed. A good plan will make it easy to recall the important metrics - functional coverage %, certified load volume, and concurrent user limit.
 
+![Comprehensive Performance Testing Reference ArchitectureMinikube Features]({{site.url}}/{{site.baseurl}}img/post-assets/2019-03-07_ABB-cpta.png)
+
 # Types of Performance Tests
 
 The seven types of tests applied are as follows:
@@ -65,7 +67,5 @@ Use your application architecture to identify a testing service or services. Sta
 The product that you have after the testing is complete and the issues are addressed will then be a promise kept.
 
 
-
-![Comprehensive Performance Testing Reference ArchitectureMinikube Features]({{site.url}}/{{site.baseurl}}img/post-assets/2019-03-07_ABB-cpta.png)
 
 
