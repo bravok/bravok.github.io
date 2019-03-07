@@ -41,7 +41,7 @@ Each test is used to achieve a goal of the Product Testing Process. A testing pl
 
 # Product Testing Process
 
-Simply put, this process is that of a Product Tester executing tests using one or more services and following a plan. There are other tests conducted earlier in the product delivery lifecycle; but for performance the goals are easily stated:
+Simply put, this process is that of a Product Tester executing tests using one or more services and following a plan. There are other tests conducted earlier in the product delivery lifecycle; but for performance the goals are different. Here they are:
 
 * Confirm all features are working
 * Prevent old defects from returning
@@ -59,6 +59,25 @@ Simply put, this process is that of a Product Tester executing tests using one o
 The core of the entire performance test approach is a feature complete set of tests. Running these each time the product is changed will help spot new problems and regressions that can be addressed before significant time and resources are committed to further testing.
 
 This initial smoke test suite is then re-used at increasily higher volumes and for longer periods of time to target the other goals. Once the system slows down or fails to respond at all the suspect components can be improved or replaced.
+
+Afterwards, adding a flow from the stress test back to an additional smoke test will tell you if the system recovered or is in some other degraded state that requires a reboot.
+
+# Ins and Outs
+
+You will need to set some boundaries for testing as you put these into practice. 
+
+**Time Period**. First choose time periods appropriate for each use case and testing type. Smoke tests only need to be run a few times, soak tests for 10 or more times the period of the longest memory cleanup cycle.
+
+**Load Target**. Also decide what load level your product needs to handle. This will scale the target Transactions per Second of your tests. Load tests would be higher than your expected goal. Your performance test would max out your load test. Your capacity test would go a step further to the brink of failure. Your stress test would step beyond the brink. All of these are multipliers on or levels above your target load level.
+
+**Results**. Your test efforts will reward you with answers to questions:
+
+* Number of concurrent users that may be handled? Confirmed by load
+* First failing component? The one identified in the stress test
+* At what TPS does the system fail? At capacity
+* When to warn? At peak load level
+* When to alert? At the performance level
+* When to scale? Before capacity
 
 # Tailoring the Testing
 
