@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
-title: "The Art of Peace: "
+date: 2016-01-15
+title: "The Art of Peace: Sharing An Experience, Part 1"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

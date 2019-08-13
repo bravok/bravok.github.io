@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-14
-title: "The Art of Peace: Finding Your Purpose Part 2"
+title: "The Art of Peace: Finding Your Purpose, Part 2"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
