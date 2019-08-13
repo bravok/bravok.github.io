@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
+date: 2016-01-27
 title: "The Art of Peace: One Group"
 categories: philosophy
 author_name : Kris Bravo

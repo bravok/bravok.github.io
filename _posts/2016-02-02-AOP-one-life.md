@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
+date: 2016-02-02
 title: "The Art of Peace: One Life"
 categories: philosophy
 author_name : Kris Bravo
