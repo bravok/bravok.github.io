@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+If at all possible try to be present, in person, when each of your Family and Friends pass away. 
 
-Introduce them, invite them in groups, help them support one another.
+The best we can do in this world is keep a person company when they die.

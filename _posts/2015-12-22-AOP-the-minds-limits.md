@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
-title: "The Art of Peace: "
+date: 2015-12-22
+title: "The Are of Peace: The Mind's Limits"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+Our minds are as physical as they are abstract.
 
-Introduce them, invite them in groups, help them support one another.
+The brain has evolved to live in peace with a narrow number of other people. Over 60 is too many, under 30 is too few.

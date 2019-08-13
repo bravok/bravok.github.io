@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,5 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+Always accompany a Friend or Family member when they are sick or in the hospital. Divide the effort among your friends if necessary.
 
-Introduce them, invite them in groups, help them support one another.

@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
-title: "The Art of Peace: "
+date: 2016-01-01
+title: "The Are of Peace: Likeness of Mind"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,4 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
-
-Introduce them, invite them in groups, help them support one another.
+Choose your Family and Friends, not by blood, by color of skin, but by Likeness of Mind. “I like this person” is the most reliable measure for lasting friendship.

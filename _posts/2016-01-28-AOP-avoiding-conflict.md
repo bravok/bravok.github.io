@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+Don’t provoke conflict with others. You'll likely cost them time with their group, and spend your time as well. 
 
-Introduce them, invite them in groups, help them support one another.
+Peace is found when you are supportive of the those you care about and respectful of the rest.

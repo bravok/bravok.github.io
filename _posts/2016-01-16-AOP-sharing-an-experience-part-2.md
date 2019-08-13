@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+A man goes for a jog by himself. He runs for about six miles alone.
 
-Introduce them, invite them in groups, help them support one another.
+This man missed an opportunity for connection with a friend or family member who would have been interested in running as well.

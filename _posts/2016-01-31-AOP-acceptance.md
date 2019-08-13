@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+Accept your Family and Friends, with all of their flaws. They are one in the same - the person and the actions. 
 
-Introduce them, invite them in groups, help them support one another.
+When they embarrass themselves, enjoy the humor, but stay by their side.

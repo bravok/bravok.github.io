@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+It’s okay to mix money and friends when your group is a healthy size and the trust is established.
 
-Introduce them, invite them in groups, help them support one another.
+Don’t accept discounts or free work. Your Friends and Family’s time has value - pay fair price and don’t create debts.

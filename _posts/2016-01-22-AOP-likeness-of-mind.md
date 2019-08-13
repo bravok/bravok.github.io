@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Art of Peace: "
+title: "The Are of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
@@ -13,6 +13,6 @@ show_related_posts: true
 square_related: recommend-spain
 ---
 
-The second best we can do in this would is to strengthen the relationship between people we care about. 
+A man has over fifty tattoos. He builds motorcycles, smokes, and hangs out with a group of people who share the same interests, including his tattoo artist.
 
-Introduce them, invite them in groups, help them support one another.
+This man is at peace.
