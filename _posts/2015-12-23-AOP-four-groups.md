@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-23
-title: "The Are of Peace: Four Groups"
+title: "The Art of Peace: Four Groups"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

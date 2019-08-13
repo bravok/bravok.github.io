@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-29
-title: "The Are of Peace: Direct Your Energy Wisely"
+title: "The Art of Peace: Direct Your Energy Wisely"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

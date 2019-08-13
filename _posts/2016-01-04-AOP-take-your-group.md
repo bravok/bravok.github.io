@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-04
-title: "The Are of Peace: Take Your Group"
+title: "The Art of Peace: Take Your Group"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

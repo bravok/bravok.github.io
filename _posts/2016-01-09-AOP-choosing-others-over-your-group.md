@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-09
-title: "The Are of Peace: Choosing Others Over Your Group"
+title: "The Art of Peace: Choosing Others Over Your Group"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

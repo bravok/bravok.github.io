@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-28
-title: "The Are of Peace: Personal Effort"
+title: "The Art of Peace: Personal Effort"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

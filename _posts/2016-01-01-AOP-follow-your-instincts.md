@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-01
-title: "The Are of Peace: Follow Your Instincts"
+title: "The Art of Peace: Follow Your Instincts"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

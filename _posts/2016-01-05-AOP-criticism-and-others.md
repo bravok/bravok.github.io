@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-05
-title: "The Are of Peace: Criticism From Others"
+title: "The Art of Peace: Criticism From Others"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

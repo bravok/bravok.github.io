@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-31
-title: "The Are of Peace: Expression with Trust"
+title: "The Art of Peace: Expression with Trust"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-03
-title: "The Are of Peace: Limited Time"
+title: "The Art of Peace: Limited Time"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

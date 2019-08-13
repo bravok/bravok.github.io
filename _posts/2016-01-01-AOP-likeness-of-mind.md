@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-01
-title: "The Are of Peace: Likeness of Mind"
+title: "The Art of Peace: Likeness of Mind"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-22
-title: "The Are of Peace: The Social Human"
+title: "The Art of Peace: The Social Human"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

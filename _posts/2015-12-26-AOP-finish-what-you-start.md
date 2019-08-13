@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-26
-title: "The Are of Peace: Finish What Your Start"
+title: "The Art of Peace: Finish What Your Start"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

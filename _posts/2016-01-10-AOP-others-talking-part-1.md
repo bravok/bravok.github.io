@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2016-01-10
-title: "The Are of Peace: Others Talking, Party 1"
+title: "The Art of Peace: Others Talking, Party 1"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

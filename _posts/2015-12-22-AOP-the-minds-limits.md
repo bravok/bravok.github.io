@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-22
-title: "The Are of Peace: The Mind's Limits"
+title: "The Art of Peace: The Mind's Limits"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

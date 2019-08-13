@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-27
-title: "The Are of Peace: Strength of Friendships"
+title: "The Art of Peace: Strength of Friendships"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

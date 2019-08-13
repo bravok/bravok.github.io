@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-28
-title: "The Are of Peace: Support Your Friends and Family"
+title: "The Art of Peace: Support Your Friends and Family"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

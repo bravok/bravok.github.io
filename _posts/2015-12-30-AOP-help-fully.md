@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-30
-title: "The Are of Peace: Help Fully"
+title: "The Art of Peace: Help Fully"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris

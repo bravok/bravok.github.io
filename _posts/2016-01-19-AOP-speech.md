@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-12-15
-title: "The Are of Peace: "
+title: "The Art of Peace: "
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
