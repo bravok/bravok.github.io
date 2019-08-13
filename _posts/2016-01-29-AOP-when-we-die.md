@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
-date: 2015-12-15
-title: "The Art of Peace: "
+date: 2016-01-29
+title: "The Art of Peace: When We Die"
 categories: philosophy
 author_name : Kris Bravo
 author_url : /author/kris
